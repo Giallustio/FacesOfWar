@@ -124,6 +124,7 @@
         maximumLoad = 20;
         mass = 60;
 		//TFAR COMP
+		tf_hasLRradio = 1;
 		tf_encryptionCode = "tf_west_radio_code";
 		tf_dialog = "anarc210_radio_dialog";
 		tf_subtype = "airborne";
